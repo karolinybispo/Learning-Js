@@ -10,10 +10,12 @@
     }
     console.log(oi)
 
-    //if(true){
-  //      let say="hello";
-   // }
-   // console.log(say) //aqui ele ja nao daria certo, pois o let eh restrito ao seu bloco
+    /**
+    if(true){
+    let say="hello";
+    }
+    console.log(say) //aqui ele ja nao daria certo, pois o let eh restrito ao seu bloco
+    **/
 
     let sobrenome = "bispo";
     sobrenome = "casta"; //como eh uma variavel, ela permite a variacao, indenpendete se for var ou let
